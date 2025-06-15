@@ -58,7 +58,20 @@ The dataset is structured to capture a broad view of employee profiles, covering
 
 -Compensation Insights: Relation between pay levels and attrition.
 
--Predictive Heatmaps: Where resignations are more likely
+-Predictive Heatmaps: Where resignations are more likely.
+
+
+ ### Preview Of Data before Cleaning:
+
+ ![image](https://github.com/user-attachments/assets/23a1f05e-d611-4fd7-a82c-7e8df3979016)
+
+ ### Preview Of Data After Cleaning:
+
+ ![image](https://github.com/user-attachments/assets/97abbbd9-4f3d-45b5-8579-0ca95d8b2719)
+
+ ![image](https://github.com/user-attachments/assets/c7dc23e5-ca73-4f1a-92d7-20da0e166c56)
+
+
 
 
 

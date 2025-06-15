@@ -82,6 +82,33 @@ The dataset is structured to capture a broad view of employee profiles, covering
 ![image](https://github.com/user-attachments/assets/c965ba03-17f6-4a22-bae1-e926fe721d1e)
 
 
+## Dashboard Highlights:
+
+### Overview Dashboard
+
+- Total staff vs. resigned
+
+- Attrition % by gender and age
+
+- Overall satisfaction metrics
+
+### Role & Department Analysis
+
+-Which roles have the highest attrition?
+
+-Department-wise breakdown
+
+-Impact of travel and overtime
+
+### Compensation & Career Path
+
+-Relationship between salary, promotions, and training
+
+-Working years vs. resignations
+
+-Career stagnation indicators
+
+
 
 
 

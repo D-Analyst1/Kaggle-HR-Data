@@ -20,8 +20,45 @@ With rising competition across industries, talent management has become a strate
 
 ## Data Dictionary:
 
+The dataset is structured to capture a broad view of employee profiles, covering demographic, job-related, experiential, and engagement attributes. Below is a categorized breakdown of the key features:
 
+| Category              | Features                                                                 |
+|-----------------------|--------------------------------------------------------------------------|
+| **Demographics**      | Age, Gender, Education, Marital Status                                   |
+| **Job Information**   | Department, Job Role, Business Travel, Daily Rate                        |
+| **Experience Metrics**| Total Working Years, Years at Company, Promotions                        |
+| **Engagement Metrics**| Work-Life Balance, Job Satisfaction, Training Times                      |
+| **Target Variable**   | Staff Resignation (Yes/No)
 
+## Methodology:
+
+### Data Preparation:
+
+**1. Data Cleaning:**
+
+-Removed redundant or empty fields.
+
+-Unified column formats and names.
+
+-Ensured consistency across both sheets.
+
+ **2. Power BI Data Modeling:**
+
+-Established relationships between data columns.
+
+-Created measures and calculated columns (e.g., Attrition Rate %).
+
+-Segmented data for better granularity (e.g., by department or education field).
+
+**3. Visualizations:**
+
+-Attrition Overview: Trend over departments, roles, and age groups.
+
+-Engagement Analysis: How work-life balance, satisfaction, and promotions correlate with resignation.
+
+-Compensation Insights: Relation between pay levels and attrition.
+
+-Predictive Heatmaps: Where resignations are more likely
 
 
 

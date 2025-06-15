@@ -71,7 +71,15 @@ The dataset is structured to capture a broad view of employee profiles, covering
 
  ![image](https://github.com/user-attachments/assets/c7dc23e5-ca73-4f1a-92d7-20da0e166c56)
 
+ ### Visualization:
 
+ ![image](https://github.com/user-attachments/assets/9d539072-9106-4c0f-8d0c-f39552dfbaa1)
+
+![image](https://github.com/user-attachments/assets/ba21b745-d513-4723-9159-7147a35a57f6)
+
+![image](https://github.com/user-attachments/assets/76ff916a-7308-4343-9a84-50541086ba5e)
+
+![image](https://github.com/user-attachments/assets/c965ba03-17f6-4a22-bae1-e926fe721d1e)
 
 
 
